@@ -1,0 +1,4 @@
+API Gateway: https://3qcpko3oae.execute-api.ca-central-1.amazonaws.com/Dev
+
+
+ARN URL:  arn:aws:dynamodb:ca-central-1:836800610465:table/PowerOfMathDatabase2
