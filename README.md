@@ -19,7 +19,7 @@ The Power Calculator Web Application is a simple tool that allows users to calcu
 
 ## Demo
 
-Visit the live demo of the Power Calculator Web Application [here](https://your-demo-link.com).
+Visit the live demo of the Power Calculator Web Application [here](https://dev.d1est5fg7jrh52.amplifyapp.com/).
 
 ## Features
 
